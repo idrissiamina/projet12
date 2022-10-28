@@ -1,0 +1,99 @@
+
+/*au debut tous les marge =0*/
+* {
+    margin: 0;
+  
+  }
+
+  body{
+    
+    width: 100%; 
+
+  }
+
+.blue{
+  margin-top: -45px;
+  font-size: 1.9rem;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  width: 100%; 
+ 
+}
+
+.im2{
+
+  margin-top: -45px;
+  vertical-align: middle;
+  position: relative; 
+  vertical-align: middle;
+  float: right
+}
+
+.AA1 {
+
+  height: 100%;
+  width: 280px;
+  position: fixed;
+  z-index: 1;
+  top: 80px;
+  left: -250px;
+  transition: left 0.5s ease;
+}
+
+.AA1 ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.AA1 a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 30px;
+  color: white ;
+  display: block;
+  transition: 0.3s;
+  
+}
+
+.AA1 a:hover {
+  color: rgb(18, 17, 17);
+  
+
+}
+
+.AA1.active {
+
+  color: white ;
+  background-color:rgb(8, 8, 196);
+  left: 0;
+}
+
+.AA1 .cc1 {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+}
+
+.burger-icon span {
+
+  display: block;
+  width: 38px;
+  height: 5px;
+  background-color: rgb(253, 246, 246);
+  margin: 6px ;
+  
+}
+.col_entet{
+  position: fixed;
+  z-index: 1;
+  padding-bottom :5px;
+  margin-bottom:-5px;
+  background-color: rgb(8, 8, 196);
+  width:100%;
+
+}
+
+

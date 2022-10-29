@@ -1,5 +1,5 @@
 <?php
-      include("head.php");
+      include("head.html");
     ?>
 
      <link rel="stylesheet" href="thankyou.css" type="text/css" />
@@ -38,6 +38,6 @@
         </div>
         
     <?php
-       include("footer1.php");
+       include("footer1.html");
     ?>
        

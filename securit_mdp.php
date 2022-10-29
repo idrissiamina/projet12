@@ -1,6 +1,6 @@
 
     <?php
-      include("head.php");
+      include("head.html");
     ?>
 
     <title>Page de Securité</title>
@@ -37,7 +37,7 @@
 </html>
 
 <?php
-       include("footer1.php");
+       include("footer1.html");
     ?>
 
 <?php 

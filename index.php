@@ -2,7 +2,7 @@
      <link rel="stylesheet" href="/style.css" type="text/css" />    
     
     <?php
-    include("head.php");
+    include("head.html");
     ?>
    
   <body class="blan">
@@ -52,7 +52,7 @@
   <footer>
 
     <?php
-       include("footer1.php");
+       include("footer1.html");
     ?>
   </footer>
 

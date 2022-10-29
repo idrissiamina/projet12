@@ -1,5 +1,5 @@
 <?php
-      include("head.php");
+      include("head.html");
     ?>
 
     <title>Photo Album</title>
@@ -43,5 +43,5 @@
 </html>
 
 <?php
-       include("footer1.php");
+       include("footer1.html");
  ?>

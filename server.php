@@ -25,7 +25,7 @@
 <!--l'entete du corp-->
     <header>
     <?php
-      include("head.php");
+      include("head.html");
     ?>
       <p>Thank you  
         <?php 
@@ -58,7 +58,7 @@
         <footer>
 
     <?php
-       include("footer1.php");
+       include("footer1.html");
     ?>
         </footer>
   </body>

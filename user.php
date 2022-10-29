@@ -2,7 +2,7 @@
 
 
 <?php
-      include("head.php");
+      include("head.html");
     ?>
 <link rel="stylesheet" href="/user.css">
 
@@ -16,5 +16,5 @@
 
 
 <?php
-       include("footer1.php");
+       include("footer1.html");
  ?>
